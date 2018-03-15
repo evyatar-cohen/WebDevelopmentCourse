@@ -1,0 +1,123 @@
+body {
+    direction: rtl;
+    background-image: url('../images/pexels-photo-807598.jpeg');
+    background-repeat: no-repeat;
+    background-size: 2000px;
+    background-position: center;
+}
+
+#container {
+    background-color: #0e0a0ae0;
+    margin-top: 100px;
+    width: 960px;
+    height: 420px;
+    -webkit-box-shadow: 0 0 50px 30px #0e0a0ae0;
+    box-shadow: 0 0 50px 30px #0e0a0ae0;
+    position: relative;
+    margin: auto;
+    margin-top: 40px;
+}
+
+h1 {
+    font-size: 25pt;
+    text-align: center;
+    color: #e5e5e5;
+    padding: 30px;
+    font-family: calibri;
+}
+
+.details {
+    font-size: 12pt;
+    color: #e5e5e5;
+    width: 320px;
+    height: 30px;
+    text-align: center;
+    background-color: rgba(232, 226, 226, 0.57);
+}
+
+h2 {
+    font-size: 16pt;
+    font-family: calibri;
+}
+
+#div1 {
+    display: inline-block;
+    float: right;
+}
+
+#div2 {
+    display: inline-block;
+    float: right;
+}
+
+#div3 {
+    display: inline-block;
+    float: right;
+}
+
+p {
+    font-family: calibri;
+}
+
+ul {
+    padding-right: 45%;
+    text-align: right;
+    list-style-type: none;
+}
+
+li {
+    font-family: calibri;
+}
+
+#hit {
+    margin-top: 10px;
+    width: 35px;
+    height: 35px;
+}
+
+footer {
+    margin-right: 400px;
+}
+
+.connect {
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    margin-top: 150px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+#facebook {
+    display: inline-block;
+    float: right;
+}
+
+    #facebook:hover {
+        width: 128px;
+        height: 128px;
+    }
+
+
+#gmail {
+    display: inline-block;
+    float: right;
+}
+
+    #gmail:hover {
+        width: 128px;
+        height: 128px;
+    }
+
+#instagram {
+    display: inline-block;
+    float: right;
+}
+
+    #instagram:hover {
+        width: 128px;
+        height: 128px;
+    }
